@@ -4,11 +4,11 @@
 
 ## Plans
 
-| Status | Directory | Original repo |  
+|        | Directory | Original repo |  
 | ------ | --------- | ------------- |
-| [ ]    | [001-zx](./packages/001-zx) | [zx](https://github.com/google/zx) |
-| [ ]    | [002-ni](./packages/002-ni) | [ni](https://github.com/antfu/ni) |
-| [ ]    | [003-unconfig](./packages/003-unconfig) | [unconfig](https://github.com/antfu/unconfig) |
+|        | [001-zx](./packages/001-zx) | [zx](https://github.com/google/zx) |
+|        | [002-ni](./packages/002-ni) | [ni](https://github.com/antfu/ni) |
+|        | [003-unconfig](./packages/003-unconfig) | [unconfig](https://github.com/antfu/unconfig) |
 
 ## License
 
