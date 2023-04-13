@@ -6,9 +6,9 @@
 
 |        | Directory | Original repo |  
 | ------ | :-------- | :------------ |
-|        | [001-zx](./packages/001-zx) | [zx](https://github.com/google/zx) |
-|        | [002-ni](./packages/002-ni) | [ni](https://github.com/antfu/ni) |
-|        | [003-unconfig](./packages/003-unconfig) | [unconfig](https://github.com/antfu/unconfig) |
+|        | [001-ni](./packages/001-ni) | [ni](https://github.com/antfu/ni) |
+|        | [002-unconfig](./packages/002-unconfig) | [unconfig](https://github.com/antfu/unconfig) |
+|        | [003-zx](./packages/003-zx) | [zx](https://github.com/google/zx) |
 
 ## License
 
