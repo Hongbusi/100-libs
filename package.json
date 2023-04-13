@@ -3,12 +3,16 @@
   "author": "Hongbusi",
   "license": "MIT",
   "scripts": {
+    "test": "vitest",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.4",
+    "@types/node": "^18.15.11",
     "eslint": "^8.38.0",
-    "typescript": "^5.0.4"
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.4",
+    "vitest": "^0.30.1"
   }
 }

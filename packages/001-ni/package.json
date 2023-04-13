@@ -1,0 +1,12 @@
+{
+  "name": "001-ni",
+  "scripts": {
+    "dev": "tsx ./src/commands/ni",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@posva/prompts": "^2.4.4",
+    "execa": "^7.1.1",
+    "find-up": "^6.3.0"
+  }
+}
